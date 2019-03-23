@@ -10,15 +10,15 @@ def argue
   
 end
 
-def greeting ("hi, there")
+def greeting ("hi,there")
 
 end
 
-def return_a_value
+def return_a_value ("nice")
 
 end
 
-def last_evaluated_value
+def last_evaluated_value ("")
 
 end
 
